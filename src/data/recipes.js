@@ -236,7 +236,7 @@ const recipes = [
       carbs: 25,
       protein: 2
     },
-    photo: "https://img.freepik.com/free-photo/homemade-sweet-fritter-with-sugar-rustic-table-generative-ai_188544-12265.jpg?t=st=1737722106~exp=1737725706~hmac=0e800ce04d17a454de755f882c5314570fd0e72f2b334fc5087ef726e8a7d5d8&w=1380"
+    photo: "https://img.freepik.com/free-photo/long-view-white-plate-filled-with-churros_23-2148379610.jpg?t=st=1737898397~exp=1737901997~hmac=69e2e357d1a1d0b0ca1cf83dce19c5ddb02a61cb46e936c6ff1f2c131a5031d9&w=900"
   },
   {
     id: 9,
