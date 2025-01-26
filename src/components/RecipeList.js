@@ -197,7 +197,7 @@ const RecipeList = () => {
         <NoFavoritesMessage>No favorites yet.</NoFavoritesMessage>
       )}
 
-      <SectionTitle>All Recipes</SectionTitle>
+      <SectionTitle>All Recipess</SectionTitle>
       <RecipesGrid>
         {filteredRecipes.map((recipe) => (
           <RecipeCard
