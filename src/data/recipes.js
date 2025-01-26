@@ -558,7 +558,7 @@ const recipes = [
         carbs: 35,
         protein: 25
       },
-      photo: "https://img.freepik.com/free-photo/world-cuisine-with-delicious-food_23-2151890029.jpg?t=st=1737724073~exp=1737727673~hmac=e74b5390f8769fbc82732732012196bb24e68004c71244859d2a6d7cce8aef2d&w=996"
+      photo: "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370863.jpg?t=st=1737899327~exp=1737902927~hmac=bc2070b05fe15f5c18fb407db382b4db0768672b42a71900ba67b2960fd20421&w=360"
     },
     {
       id: 29,
@@ -587,7 +587,7 @@ const recipes = [
         carbs: 25,
         protein: 50
       },
-      photo: "https://img.freepik.com/free-photo/juicy-beef-wellington-tenderloin-dish-rustic-wooden-table-english-food-ai-generative_123827-24946.jpg?t=st=1737724112~exp=1737727712~hmac=bb3f823f3bcd6cde5fe8f108ad8b451588faa6eab967e9a3d99f9e99e162ee8b&w=1060"
+      photo: "https://img.freepik.com/free-photo/grilled-steak-taco-yellow-flatbread-plate-generated-by-ai_188544-18062.jpg?t=st=1737899506~exp=1737903106~hmac=89b2d8985dfedf93e65d949a0e6cdcdfc19fb4800187d54020199d3b6def9762&w=1380"
     },
     {
       id: 30,
