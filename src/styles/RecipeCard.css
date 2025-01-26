@@ -1,0 +1,145 @@
+.recipe-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    margin: 20px auto;
+    text-align: center;
+    width: 90%; /* Ajusta al ancho deseado */
+    max-width: 400px; /* Limita el tamaño máximo */
+    transition: transform 0.2s;
+  }
+  
+  .recipe-card:hover {
+    transform: scale(1.02); /* Efecto de zoom al pasar el mouse */
+  }
+  
+  .recipe-card img {
+    width: 100%;
+    height: 200px; /* Altura fija para todas las imágenes */
+    object-fit: cover; /* Ajusta la imagen sin deformarla */
+  }
+  
+  .recipe-card-title {
+    font-size: 1.2rem;
+    color: #f04e30; /* Rojo */
+    padding: 10px;
+  }
+  
+  .recipe-card-description {
+    font-size: 0.9rem;
+    color: #555; /* Gris oscuro */
+    padding: 10px;
+  }
+  
+  .recipe-list {
+    display: flex;
+    flex-wrap: wrap; /* Hace que las tarjetas se ajusten en varias filas */
+    justify-content: center; /* Centra las tarjetas */
+    gap: 20px; /* Espaciado entre tarjetas */
+  }
+
+  .recipe-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px 0;
+    cursor: pointer;
+    transition: transform 0.2s;
+    background-color: #fff;
+  }
+  
+  .recipe-card:hover {
+    transform: scale(1.02);
+  }
+  
+  .recipe-card-img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .recipe-card-title {
+    font-size: 1.2rem;
+    margin: 8px 0;
+    color: #333;
+  }
+  
+  .recipe-card-description {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  .recipe-card-time {
+    font-size: 0.9rem;
+    color: #777;
+  }
+  
+  .favorite-btn {
+    background-color: transparent;
+    border: none;
+    font-size: 1rem;
+    color: #e63946;
+    cursor: pointer;
+  }
+  
+  .favorite-btn:hover {
+    color: #d62828;
+  }
+  .recipe-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.2s ease-in-out;
+    cursor: pointer;
+  }
+  
+  .recipe-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .recipe-card-image-wrapper {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+  }
+  
+  .recipe-card-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .recipe-card-content {
+    padding: 16px;
+  }
+  
+  .recipe-card-title {
+    font-size: 1.25rem;
+    color: #d9534f;
+    margin: 0;
+  }
+  
+  .recipe-card-description {
+    font-size: 0.9rem;
+    color: #666;
+    margin: 8px 0;
+  }
+  
+  .favorite-button {
+    background: none;
+    border: none;
+    color: #d9534f;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: color 0.2s ease-in-out;
+  }
+  
+  .favorite-button:hover {
+    color: #b52c2c;
+  }
+  
+  .favorite-button.favorited {
+    color: #b52c2c;
+  }
+    

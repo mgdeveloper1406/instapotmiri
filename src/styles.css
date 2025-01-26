@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #fff;
+  }
+  
+  h2, h1 {
+    color: #fff;
+    margin-bottom: 0.5rem;
+  }
+  
+  .recipe-card {
+    background-color: #1a1a1a;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    border: 1px solid #c53030;
+  }
+  
+  button {
+    background-color: #c53030;
+    border: none;
+    padding: 0.5rem 1rem;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #a32222;
+  }
+  
+  section {
+    padding: 1rem;
+  }
+  
+  .filter-buttons button {
+    margin-right: 0.5rem;
+  }
+  .FilterButtons button {
+    background-color: #f0f0f0 !important;
+    transition: background-color 0.3s, transform 0.2s !important;
+  }
+  
+  .FilterButtons button:hover {
+    background-color: #e0e0e0 !important;
+    transform: scale(1.05) !important;
+  }
+  
+  .FilterButtons button.active {
+    background-color: rgb(230, 46, 46) !important;
+    color: white !important;
+  }
+  
