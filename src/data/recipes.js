@@ -58,7 +58,7 @@ const recipes = [
       carbs: 40,
       protein: 6
     },
-    photo: "https://img.freepik.com/free-photo/gourmet-dessert-served-wooden-table-with-candle-generated-by-ai_188544-13393.jpg?t=st=1737721754~exp=1737725354~hmac=64187f0a30bb158c078a4a6f5795060f2702adfd5595a16403685f2731f1e818&w=1380"
+    photo: "https://img.freepik.com/free-photo/gourmet-dessert-served-wooden-table-with-candle-generated-by-ai_188544-13393.jpg?t=st=1737897844~exp=1737901444~hmac=b8dbfd67eedb4151bf1bbac72395e8bfe641bb6fca5b00c5e04a6c96e1c96896&w=1380"
   },
   {
     id: 3,
