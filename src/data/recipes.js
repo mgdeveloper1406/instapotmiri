@@ -146,7 +146,7 @@ const recipes = [
       carbs: 30,
       protein: 5
     },
-    photo: "https://img.freepik.com/free-photo/dark-chocolate-melting-rustic-wooden-table-generated-by-ai_188544-34377.jpg?t=st=1737721949~exp=1737725549~hmac=946ab85231b240845a61660a5fbd53bbb983f25812fe5d25146a9b176a52ee7b&w=1380"
+    photo: "https://img.freepik.com/free-photo/close-up-delicious-chocolate-mousse-ready-be-served_23-2148622328.jpg?t=st=1737898277~exp=1737901877~hmac=e5424c1808382e202ee7b1c4eada24d810bc87e0b1ae6f74162ace364e48d81f&w=1060"
   },
   {
     id: 6,
