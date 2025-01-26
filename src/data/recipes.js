@@ -618,7 +618,7 @@ const recipes = [
         carbs: 35,
         protein: 30
       },
-      photo: "https://img.freepik.com/free-photo/risotto-with-mushrooms-coriander-leaves_23-2147925970.jpg?t=st=1737899597~exp=1737903197~hmac=c9fc082fe0b71fde94943c673399bc35f9d4a4bd73f3e535ff88e1653f26cb1a&w=1060s"
+      photo: "https://img.freepik.com/free-photo/fettucine-with-cheese-mushrooms_140725-337.jpg?t=st=1737904427~exp=1737908027~hmac=29b11dd074a822858ef93bf884a8aa33358b67aa8fb1da06471489aad110a343&w=740"
     }, 
     {
       id: 31,
