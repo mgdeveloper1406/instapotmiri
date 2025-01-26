@@ -334,7 +334,7 @@ const recipes = [
         carbs: 25,
         protein: 35
       },
-      photo: "https://img.freepik.com/free-photo/rustic-meal-wooden-table-with-fresh-ingredients-generated-by-ai_188544-38165.jpg?t=st=1737723676~exp=1737727276~hmac=1b2f74c1a833488bb06587bf1fdae3b5786df6f1f05e804273df16fd3ab54191&w=1380"
+      photo: "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370848.jpg?t=st=1737898985~exp=1737902585~hmac=a10cb13350abf2e7476f5f539a28f58e82028b0e99b46ce6c76ff570e454e756&w=360"
     },
     {
       id: 22,
@@ -367,7 +367,7 @@ const recipes = [
         carbs: 30,
         protein: 25
       },
-      photo: "https://img.freepik.com/free-photo/freshness-heat-combine-homemade-vegetarian-stew-meal-generated-by-artificial-intelligence_188544-110536.jpg?t=st=1737723717~exp=1737727317~hmac=17c5bc78797abe523172bc568f5bb7a779b29dbc36880415ed1bce48a22a0fab&w=1380"
+      photo: "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370870.jpg?t=st=1737898913~exp=1737902513~hmac=4e97644df416338bab4a6123443fc54642d8feccefd8778e0ecbd4d8373bcff9&w=1060"
     },
     {
       id: 23,
@@ -461,7 +461,7 @@ const recipes = [
         carbs: 20,
         protein: 30
       },
-      photo: "https://img.freepik.com/free-photo/fresh-vegetables-stir-fried-healthy-gourmet-lunch-meal-generated-by-ai_188544-56086.jpg?t=st=1737723954~exp=1737727554~hmac=174d404fe26401cbd9b4e71aa3f08a9ff237c46cc06b8b46457b816c631a01c4&w=1380"
+      photo: "https://img.freepik.com/free-photo/stew-beef-pieces-beef-stewed-soy-sauce-with-spices-with-pickled-cucumber-asian-style_2829-20279.jpg?t=st=1737899163~exp=1737902763~hmac=88a98963f54fbc8d1b2a76c9475206a4458f22658b469abedf3e6adc9af2b782&w=996"
     },
     {
       id: 26,
@@ -527,7 +527,7 @@ const recipes = [
         carbs: 20,
         protein: 40
       },
-      photo: "https://img.freepik.com/free-photo/grilled-pork-rib-plate-with-savory-sauce-generated-by-ai_188544-38884.jpg?t=st=1737724040~exp=1737727640~hmac=4c236f48907fc12fc9b533ddd7a853370ee5ed964cd67d87714b640c72489576&w=1380"
+      photo: "https://img.freepik.com/free-photo/barbecue-with-green-pepper_181624-2534.jpg?t=st=1737899220~exp=1737902820~hmac=b2ae2507131b6ea0edf5c9f9e82db176b790448011d89636511e572e31608a9e&w=360"
     },
     {
       id: 28,
