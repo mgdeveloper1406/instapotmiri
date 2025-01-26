@@ -618,7 +618,7 @@ const recipes = [
         carbs: 35,
         protein: 30
       },
-      photo: "https://img.freepik.com/free-photo/vegetarian-risotto-with-fresh-mushrooms-parmesan-cheese-generated-by-ai_188544-10223.jpg?t=st=1737724221~exp=1737727821~hmac=11b7a2d232cc298506085ee385fc7f6d2201fd9c14c582aa8e1eb0e1f86fb840&w=1380"
+      photo: "https://img.freepik.com/free-photo/risotto-with-mushrooms-coriander-leaves_23-2147925970.jpg?t=st=1737899597~exp=1737903197~hmac=c9fc082fe0b71fde94943c673399bc35f9d4a4bd73f3e535ff88e1653f26cb1a&w=1060s"
     }, 
     {
       id: 31,
