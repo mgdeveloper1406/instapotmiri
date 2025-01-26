@@ -58,7 +58,7 @@ const recipes = [
       carbs: 40,
       protein: 6
     },
-    photo: "https://img.freepik.com/free-photo/gourmet-dessert-served-wooden-table-with-candle-generated-by-ai_188544-13393.jpg?t=st=1737897844~exp=1737901444~hmac=b8dbfd67eedb4151bf1bbac72395e8bfe641bb6fca5b00c5e04a6c96e1c96896&w=1380"
+    photo: "https://img.freepik.com/free-photo/healthy-meal-cooked-with-organic-ingredients-rustic-wooden-table-generated-by-ai_188544-61381.jpg?t=st=1737898021~exp=1737901621~hmac=01c41770c29d9a32a3fabdd87c9736090c69cb35f29fa1329358bbad19c01147&w=1380"
   },
   {
     id: 3,
@@ -117,7 +117,7 @@ const recipes = [
       carbs: 20,
       protein: 3
     },
-    photo: "https://img.freepik.com/free-photo/food-condiment-with-spices-seasonings_23-2151011170.jpg?t=st=1737721902~exp=1737725502~hmac=45ddf543c4d508f413973f296e692e6f4e87bd058c0eeaa3f8da692326e0b21e&w=1060"
+    photo: "https://img.freepik.com/free-photo/homemade-sweet-condensed-milk_114579-18908.jpg?t=st=1737898125~exp=1737901725~hmac=e3ddc2756ff7c45872310409dab1f9c8142fcfc5991eff520d921c08446ce899&w=740"
   },
   {
     id: 5,
