@@ -29,7 +29,7 @@ const recipes = [
       carbs: 25,
       protein: 6
     },
-    photo: "https://img.freepik.com/free-photo/gourmet-cheesecake-slice-with-raspberry-chocolate-generated-by-ai_188544-22604.jpg?t=st=1737721683~exp=1737725283~hmac=9ec897393fd8a8c0e76950e170aa132807a06a7b10ca9ef5f9968d44b7ecb330&w=1380"
+    photo: "https://img.freepik.com/free-photo/fresh-raspberry-cheesecake_114579-1587.jpg?t=st=1737904331~exp=1737907931~hmac=ac2b87783c8e1e69770f6dcc08622092aa39c82b19effedb04e76604b794f698&w=740"
   },
   {
     id: 2,
