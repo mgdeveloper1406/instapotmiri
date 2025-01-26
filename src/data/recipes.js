@@ -997,7 +997,7 @@ const recipes = [
           carbs: 3,
           protein: 28
         },
-        photo: "https://img.freepik.com/free-photo/grilled-seafood-plate-fresh-healthy-gourmet-generated-by-ai_188544-13420.jpg?t=st=1737725584~exp=1737729184~hmac=34dfbfe1bd9965af4b565ad3ff26b3b648d4e6d8058a1e0132573fd1fd6e469d&w=1380"
+        photo: "https://img.freepik.com/free-photo/selective-focus-shot-appetizing-lobster-with-lemon-slice-sauce_181624-42348.jpg?t=st=1737900389~exp=1737903989~hmac=acba837eb5aae3d849b8847220ad684b91447d174c3f252f563e5c5c5408e5e2&w=1060"
       },
       {
         id: 43,
@@ -1028,7 +1028,7 @@ const recipes = [
           carbs: 0,
           protein: 35
         },
-        photo: "https://img.freepik.com/free-photo/top-view-delicious-salmon-table_23-2150857906.jpg?t=st=1737725615~exp=1737729215~hmac=15be1390c5627b81a9489c3c80c33ba6f56695a0558bca144081fda8e52248f6&w=1380"
+        photo: "https://img.freepik.com/free-photo/grilled-salmon-meat-fillet-steak_74190-7282.jpg?t=st=1737900510~exp=1737904110~hmac=a071f3f25058cc4540fce1da797c9e54d1f446167216f1a9f072efa677ccbd64&w=1060"
       },
       {
         id: 44,
@@ -1063,7 +1063,7 @@ const recipes = [
           carbs: 45,
           protein: 30
         },
-        photo: "https://img.freepik.com/free-photo/gourmet-paella-with-seafood-saffron-spice-generated-by-ai_188544-18027.jpg?t=st=1737725652~exp=1737729252~hmac=c1221e1d6c763a2046075b359092ddc6d5089300c2d856f8de0b956c909466ad&w=1380"
+        photo: "https://img.freepik.com/free-photo/delicious-food-closeup_624325-1776.jpg?t=st=1737900597~exp=1737904197~hmac=aefd1f33f7f71ca37e1edcc52aef73385fb9df38b7e00daf94efd18a4a418244&w=1060"
       },
       {
         id: 45,
@@ -1094,7 +1094,7 @@ const recipes = [
           carbs: 35,
           protein: 25
         },
-        photo: "https://img.freepik.com/free-photo/delicious-food-table_23-2150857728.jpg?t=st=1737725704~exp=1737729304~hmac=6606dac228ea15577c1cf537774f0b47acf9d5cb6c12655de0f7c35a1896ab57&w=1380"
+        photo: "https://img.freepik.com/free-photo/water-cress-crispy-spicy-salad_1339-4217.jpg?t=st=1737900777~exp=1737904377~hmac=03e990bc85a10be77d13726c69323e3bc99f0ecc6c208fa941f3afd25177be7c&w=1060"
       },
       {
         id: 46,
@@ -1185,7 +1185,7 @@ const recipes = [
           carbs: 40,
           protein: 30
         },
-        photo: "https://img.freepik.com/free-photo/grilled-seafood-veggies-fresh-salad-generated-by-ai_188544-21995.jpg?t=st=1737725859~exp=1737729459~hmac=73df113e3d72d1f0d379da7240ec641bc4271812bccc9fc93ea1924c90b1a710&w=1380"
+        photo: "https://img.freepik.com/free-photo/italian-pasta-with-seafood-king-prawns_78826-3313.jpg?t=st=1737900930~exp=1737904530~hmac=1b660f1fdb4aa6888b24747dd103b2375ec69ec3a8f8ce9d015f0353d1baf76b&w=1060"
       },
       {
         id: 49,
@@ -1309,7 +1309,7 @@ const recipes = [
             carbs: 12,
             protein: 35
           },
-          photo: "https://img.freepik.com/free-photo/fresh-homemade-taco-plate-with-grilled-beef-generated-by-ai_188544-25991.jpg?t=st=1737726103~exp=1737729703~hmac=69ed4bfcadf5dd5dcdb92e47270ccaea46cf6c2d489604b3817c884cb68fee4b&w=1380"
+          photo: "https://img.freepik.com/free-photo/fajitas_23-2148024789.jpg?t=st=1737901026~exp=1737904626~hmac=443e2866ecc6003ab81e4d6214103984c9ab21f1ef72c9a11bc15421bb32e6de&w=360"
         },
         {
           id: 53,
@@ -1339,7 +1339,7 @@ const recipes = [
             carbs: 3,
             protein: 35
           },
-          photo: "https://img.freepik.com/free-photo/grilled-sirloin-steak-with-fresh-vegetable-salad-generated-by-ai_24640-89756.jpg?t=st=1737726178~exp=1737729778~hmac=9e36ab30479a152c499444d91db53e19876995a681258c945a6b0dd63f552ba8&w=1380"
+          photo: "https://img.freepik.com/free-photo/pork-chop-steak_1339-5918.jpg?t=st=1737901110~exp=1737904710~hmac=2470d953325a648da66046a2e07b32dd13b0993df7fff23802d13290c2ccb494&w=1060"
         },
         {
           id: 54,
@@ -1370,7 +1370,7 @@ const recipes = [
             carbs: 20,
             protein: 40
           },
-          photo: "https://img.freepik.com/free-photo/grilled-pork-rib-plate-with-savory-sauce-generated-by-ai_188544-38884.jpg?t=st=1737726259~exp=1737729859~hmac=6c360ef0dbaea75bdf1910d6a7b7e9fc65798339732bfdb92c2319b6fb68e379&w=1380"
+          photo: "https://img.freepik.com/free-photo/fried-sebet-wooden-board_140725-4714.jpg?t=st=1737901215~exp=1737904815~hmac=03ed5d3f0c49c7e4e06083fba40c52b7656551e7da3aaf442415b39fcd312c56&w=740"
         },
         {
           id: 55,
@@ -1399,7 +1399,7 @@ const recipes = [
             carbs: 10,
             protein: 45
           },
-          photo: "https://img.freepik.com/free-photo/grilled-steak-fresh-fillet-cooked-pork-tomato-spice-rustic-salad-generated-by-artificial-intelligence_188544-126400.jpg?t=st=1737726301~exp=1737729901~hmac=7c16800b7f3a743b2a25464ee9fd604ed64848c97d444e99dccc71a7be35278c&w=1380"
+          photo: "https://img.freepik.com/free-photo/tasty-appetizing-roasted-meat-pork-with-vegetables-thanksgiving-day-closeup_1220-6560.jpg?t=st=1737901284~exp=1737904884~hmac=dccb42acf0a19452a75b47b0371e1c53e06ee2c6129a0b03db56fbbdb3529048&w=1060"
         },
         {
           id: 56,
@@ -1488,7 +1488,7 @@ const recipes = [
             carbs: 25,
             protein: 30
           },
-          photo: "https://img.freepik.com/free-photo/world-cuisine-with-delicious-food_23-2151890028.jpg?t=st=1737726469~exp=1737730069~hmac=ba2cb1361d25d5480fe710dfcea537eddbd10bb724e6dbc028cbc69155f0660e&w=996"
+          photo: "https://img.freepik.com/free-photo/fried-crispy-chicken-served-with-tomato-fried-potatoes-wood-board_140725-639.jpg?t=st=1737901374~exp=1737904974~hmac=61dc6cf6d8fa481be8e4554a1fd0c208446309ef84cdb298ab3dae72cfbccc3b&w=360"
         },
         {
           id: 59,
@@ -1518,7 +1518,7 @@ const recipes = [
             carbs: 45,
             protein: 30
           },
-          photo: "https://img.freepik.com/free-photo/fried-rice-served-with-hot-syrup_157027-4101.jpg?t=st=1737726512~exp=1737730112~hmac=166e82e9304d037ee892131744e8ccc79546cde0cd7903d94ba5fb01cf2dfbb8&w=1380"
+          photo: "https://img.freepik.com/free-photo/high-angle-traditional-asian-dish-with-rice-herbs_23-2148694318.jpg?t=st=1737901478~exp=1737905078~hmac=7cea9f76adfb575d84e1ee608243e0c696109b8b9404da352b994fa858c0b410&w=360"
         },
         {
           id: 60,
