@@ -1549,7 +1549,7 @@ const recipes = [
             carbs: 10,
             protein: 35
           },
-          photo: "https://img.freepik.com/free-photo/freshness-heat-grilled-pork-slice-with-tomato-generated-by-artificial-intelligence_188544-129368.jpg?t=st=1737726576~exp=1737730176~hmac=4a62157d4beb199c4227fddee87c97b411616f0f211bf37076e724e92fd8ed67&w=1380"
+          photo: "https://img.freepik.com/free-photo/process-cooking-homemade-porchetta-from-raw-pork_127032-2880.jpg?t=st=1737901545~exp=1737905145~hmac=668094e293da532b0d561ebb7d5be5e351a2580cac56fcd003307591eb6ddd29&w=740"
         },
         {
             id: 61,
@@ -1580,7 +1580,7 @@ const recipes = [
               carbs: 30,
               protein: 28
             },
-            photo: "https://img.freepik.com/free-photo/grilled-cheeseburger-fries-classic-american-meal-generated-by-ai_188544-31768.jpg?t=st=1737726609~exp=1737730209~hmac=9702d787d0177f2ebb501dcdaa5784a6970100c096a312ca794e6c5a16baf4cf&w=1380"
+            photo: "https://img.freepik.com/free-photo/side-view-double-cheeseburger-with-grilled-beef-patties-cheese-lettuce-leaf-burger-buns_141793-4883.jpg?t=st=1737901612~exp=1737905212~hmac=c76ca20588e5ff18feebb82d2d496acb5044b3dfbd2e1caf20e63e37dcdb6bfd&w=1060"
           },
           {
             id: 62,
@@ -1613,7 +1613,7 @@ const recipes = [
               carbs: 32,
               protein: 30
             },
-            photo: "https://img.freepik.com/free-photo/grilled-cheeseburger-meal-with-fries-salad-generated-by-ai_188544-23218.jpg?t=st=1737726667~exp=1737730267~hmac=cb37dfd148dfb0bfca8a1402c0c5a9d179be2d6824ca097a709bb689176d0f39&w=1380"
+            photo: "https://img.freepik.com/free-photo/vertical-closeup-shot-tasty-burger-with-bacon-black-wall_181624-28350.jpg?t=st=1737901673~exp=1737905273~hmac=d6313c02561c16bf96eae6b69380cdf8b302fb2d47019ef3f7621ae2bd158d5d&w=360"
           },
           {
             id: 63,
@@ -1646,7 +1646,7 @@ const recipes = [
               carbs: 40,
               protein: 15
             },
-            photo: "https://img.freepik.com/free-photo/grilled-gourmet-cheeseburger-rustic-wood-table-with-french-fries-generated-by-ai_188544-55833.jpg?t=st=1737726698~exp=1737730298~hmac=c22bf571c4f735dc8299e6019c1ae11e150f22c1c4bd897572111da92b2ac425&w=1380"
+            photo: "https://img.freepik.com/free-photo/vegan-burgers-with-lentils-pistashios_661915-259.jpg?t=st=1737901733~exp=1737905333~hmac=1b6de5192dba812fed353710e2d6e875f7023eabb81a9f56361e55d3e32c33e2&w=360"
           },
           {
             id: 64,
@@ -1678,7 +1678,7 @@ const recipes = [
               carbs: 30,
               protein: 30
             },
-            photo: "https://img.freepik.com/free-photo/gourmet-cheeseburger-with-grilled-meat-fresh-vegetables-generated-by-ai_24640-82510.jpg?t=st=1737726754~exp=1737730354~hmac=08bfbd311f43e9f9948855550762cd2c3837fc2481e0740d9ecef79b3d849046&w=1380"
+            photo: "https://img.freepik.com/free-photo/grilled-beef-burger-homemade-bun-outdoors-generated-by-ai_24640-81945.jpg?t=st=1737901831~exp=1737905431~hmac=8a8520f115e271b5bb67e11ee61d08ac3f3845d72cce4a67e3a9725531dadaef&w=1380"
           },
           {
             id: 65,
@@ -1708,7 +1708,7 @@ const recipes = [
               carbs: 25,
               protein: 25
             },
-            photo: "https://img.freepik.com/free-photo/delicious-vegan-burger-presentation_23-2151910911.jpg?t=st=1737726791~exp=1737730391~hmac=783114b816548d8b175b31f07496cd412d71ce8406ddf5d9a45eb51e7e934f87&w=996"
+            photo: "https://img.freepik.com/free-photo/meat-burger-wooden-board-coleslaw-cucumber-tomato-mushrooms-cheese-side-view_141793-2387.jpg?t=st=1737901948~exp=1737905548~hmac=9ae32b39f110a3de9b60d2efdc8e9228438df9d62dce55f3d533eeb7973ed66e&w=1060"
           },
           {
             id: 66,
@@ -1769,7 +1769,7 @@ const recipes = [
               carbs: 30,
               protein: 30
             },
-            photo: "https://img.freepik.com/free-photo/grilled-gourmet-burger-rustic-table-ready-eat-with-fries-generated-by-artificial-intelligence_25030-63055.jpg?t=st=1737726862~exp=1737730462~hmac=f8b794ea321606ebcc2e7ea71566d56e3252396145548f805af124a919f7e77d&w=1380"
+            photo: "https://img.freepik.com/free-photo/meat-burger-wooden-board-tomato-onion-beans-walnuts-side-view_141793-2390.jpg?t=st=1737902003~exp=1737905603~hmac=987f2beaa471d489b497b298373b078617d491355b6782adfc929e9376b94581&w=360"
           },
           {
             id: 68,
@@ -1800,7 +1800,7 @@ const recipes = [
               carbs: 25,
               protein: 30
             },
-            photo: "https://img.freepik.com/free-photo/grilled-gourmet-cheeseburger-fresh-ciabatta-bun-generated-by-ai_24640-81590.jpg?t=st=1737726886~exp=1737730486~hmac=3b166d411a05da20e245a78b2942e886d04d8a49ea274cc69f4ef9cd7d9b99f3&w=1380"
+            photo: "https://img.freepik.com/free-photo/front-view-beef-burgers-with-bacon-slate-board_23-2148784477.jpg?t=st=1737902115~exp=1737905715~hmac=49fa0b1ee685932f16410ecf0f9a82ade5175343c25c268822b2d4abab83dc5b&w=740"
           },
           {
             id: 69,
@@ -1832,7 +1832,7 @@ const recipes = [
               carbs: 25,
               protein: 35
             },
-            photo: "https://img.freepik.com/free-photo/grilled-cheeseburger-meal-with-fries-salad-generated-by-ai_188544-23218.jpg?t=st=1737726667~exp=1737730267~hmac=cb37dfd148dfb0bfca8a1402c0c5a9d179be2d6824ca097a709bb689176d0f39&w=1380"
+            photo: "https://img.freepik.com/free-photo/big-sandwich-hamburger-burger-with-beef-cheese-tomato-fried-bacon_2829-13905.jpg?t=st=1737902159~exp=1737905759~hmac=8ae269bdbb7a1665a3542c017d451e24caf826825cf40ab070765d9f8147df2c&w=740"
           },
           {
             id: 70,
@@ -1942,7 +1942,7 @@ const recipes = [
               carbs: 12,
               protein: 2
             },
-            photo: "https://img.freepik.com/free-photo/bowl-popcorn-wooden-table_1340-22907.jpg?t=st=1737727098~exp=1737730698~hmac=383a30ac88506390071d1ce9f16889560e0e51308922b2db7b214edc6ac6b72e&w=1060"
+            photo: "https://img.freepik.com/free-photo/caramel-popcorn-table_1339-7362.jpg?t=st=1737902206~exp=1737905806~hmac=243e6d1afe5ac202a7734de1995bc95c52f382c99460db06824432973ba4954d&w=360"
           },
           {
             id: 74,
@@ -2023,7 +2023,7 @@ const recipes = [
               carbs: 15,
               protein: 5
             },
-            photo: "https://img.freepik.com/free-photo/homemade-walnut-pumpkin-dessert-healthy-indulgence-ball-generated-by-ai_188544-24654.jpg?t=st=1737727275~exp=1737730875~hmac=17402ad4c5c49e37641895c3c159df08c3ff4fd392fc016b08c9ec96758ef139&w=1380"
+            photo: "https://img.freepik.com/free-photo/delicious-high-protein-vegan-dessert_23-2149039376.jpg?t=st=1737902260~exp=1737905860~hmac=d3157e382ed17217173f10cbeb44f66df82d50ea1bc44af0377ebe5f4fac4cfd&w=360"
           },
           {
             id: 77,
@@ -2051,7 +2051,7 @@ const recipes = [
               carbs: 30,
               protein: 5
             },
-            photo: "https://img.freepik.com/free-photo/crunchy-granola-with-fresh-fruit-nuts-generated-by-ai_188544-23099.jpg?t=st=1737727302~exp=1737730902~hmac=9a61fc032a4bd499b00ce74284bebc40098f2dc1878eabd9293cbba3296f9ada&w=1380"
+            photo: "https://img.freepik.com/free-photo/hands-holding-mexican-sweets_23-2149517134.jpg?t=st=1737903473~exp=1737907073~hmac=a8e440188ae7169386cfc7fb6c2db3f97d54327654fc1b06fa34550de939ba8b&w=360"
           },
           {
             id: 78,
@@ -2076,7 +2076,7 @@ const recipes = [
               carbs: 5,
               protein: 7
             },
-            photo: "https://img.freepik.com/free-photo/bowl-fresh-sour-cream-topped-with-vibrant-green-onions-rustic-table_157027-4151.jpg?t=st=1737727329~exp=1737730929~hmac=87a7513725b81dead753069b0ed4df6328cd28d0e98698b6f812242dd330bbe5&w=1380"
+            photo: "https://img.freepik.com/free-photo/delicious-hummus_144627-19477.jpg?t=st=1737903695~exp=1737907295~hmac=57f6eac6550da699bc6a999bb819021369ce71156e15a1d5dc5faa95f67051c4&w=360"
           },
           {
             id: 79,
@@ -2101,7 +2101,7 @@ const recipes = [
               carbs: 18,
               protein: 3
             },
-            photo: "https://img.freepik.com/free-photo/fresh-fried-french-fries-with-ketchup-wooden-background-generative-ai_1258-153043.jpg?t=st=1737727385~exp=1737730985~hmac=d0baac1b19fc6a5261b10222391c9f6f9e5694cc540df133b52a38178d84e107&w=1380"
+            photo: "https://img.freepik.com/free-photo/potato-chips-bowl-wooden-table_1150-18390.jpg?t=st=1737903507~exp=1737907107~hmac=b74a73658f1879ed5b256fbf2e60374dd4a085bd541fb08ed6b511f44b97e3d0&w=1060"
           },
           {
             id: 80,
@@ -2193,7 +2193,7 @@ const recipes = [
                 carbs: 35,
                 protein: 4
               },
-              photo: "https://img.freepik.com/free-photo/freshly-baked-chocolate-brownie-rustic-wood-plate-generated-by-ai_188544-29059.jpg?t=st=1737727805~exp=1737731405~hmac=6492b471efc938aa74b7ff6a87cf2c0bb20e8861cd0a07e3620960a0668e3a5d&w=1380"
+              photo: "https://img.freepik.com/free-photo/piece-chocolate-cake-black-plate_23-2148320812.jpg?t=st=1737903827~exp=1737907427~hmac=d198c22218dd697907e043268f4943a92466e86a7f19147d11db9db56a0b32f4&w=360"
             },
             {
               id: 83,
@@ -2225,7 +2225,7 @@ const recipes = [
                 carbs: 28,
                 protein: 4
               },
-              photo: "https://img.freepik.com/free-photo/homemade-sweet-buns-fresh-chocolate-coffee-generated-by-ai_188544-11763.jpg?t=st=1737727842~exp=1737731442~hmac=d8acf2e04ef1959f8518a9f7079d6e7cfa543f1fffac35d4ada0ed3b00c009fc&w=1380"
+              photo: "https://img.freepik.com/free-photo/close-up-view-delicious-cinnamon-rolls_23-2148779659.jpg?t=st=1737903934~exp=1737907534~hmac=ca530d9851ae122757a5d891e5e34e7d60ee23908e175b4404da1f3365df7730&w=1060"
             },
             {
               id: 84,
@@ -2286,7 +2286,7 @@ const recipes = [
                 carbs: 26,
                 protein: 3
               },
-              photo: "https://img.freepik.com/free-photo/view-delicious-muffin_23-2150777673.jpg?t=st=1737727941~exp=1737731541~hmac=08bf77ffe69338c85d1c580d039cc894d10945a5306a9c857e9547bce4669f29&w=1060"
+              photo: "https://img.freepik.com/free-photo/blueberry-muffin_74190-2634.jpg?t=st=1737903996~exp=1737907596~hmac=01f3377d50ca1bdb77871612c14276daa25304afa73806465e0c4dc88179210b&w=360"
             },
             {
               id: 86,
@@ -2316,7 +2316,7 @@ const recipes = [
                 carbs: 28,
                 protein: 4
               },
-              photo: "https://img.freepik.com/free-photo/fresh-mint-leaf-adds-gourmet-touch-sweet-peppermint-cheesecake-generated-by-ai_188544-61349.jpg?t=st=1737727975~exp=1737731575~hmac=34db4f1d229fc8c1ff0401f8a5af73df503a0891d26bf1ff04b806e3daff7091&w=1380"
+              photo: "https://img.freepik.com/free-photo/front-closed-up-view-sweet-cake-piece-delicious-yummy-choco-cake-slice-inside-beige-plate-along-with-yellow-lemons_140725-18022.jpg?t=st=1737904042~exp=1737907642~hmac=bcf6d4362199cf6b6f62a4a49a15d33db3bea9d71c3ebbf6ecf6b0e25e52a6a8&w=1060"
             },
             {
               id: 87,
@@ -2377,7 +2377,7 @@ const recipes = [
                 carbs: 32,
                 protein: 5
               },
-              photo: "https://img.freepik.com/free-photo/delicious-dessert-indoors_23-2151890076.jpg?t=st=1737728094~exp=1737731694~hmac=a83c7bcc92d80016bb48bc3a5b34858e8cefae324774167e82fd55aab1222585&w=996"
+              photo: "https://img.freepik.com/free-photo/view-cake-made-from-carrots_23-2150316405.jpg?t=st=1737904101~exp=1737907701~hmac=419159a8a4f0216ca847993c4bdad51d2ab00ec9ee5b23c401da295379ca10b1&w=360"
             },
             {
               id: 89,
