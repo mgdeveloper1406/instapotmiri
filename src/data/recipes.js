@@ -747,7 +747,7 @@ const recipes = [
         carbs: 15,
         protein: 35
       },
-      photo: "https://img.freepik.com/free-photo/close-up-delicious-chicken-meal_23-2150741793.jpg?t=st=1737724489~exp=1737728089~hmac=28e089945ccd34466450aff68eeceb04584ec653042590dca1c4339d806a4750&w=1380"
+      photo: "https://img.freepik.com/free-photo/baked-chicken-wings-with-teriyaki-sauce_2829-13929.jpg?t=st=1737899669~exp=1737903269~hmac=079c602d014f667b48a20936664dab33187f203c01759626b99c3a36acf03e79&w=360"
     },
     {
       id: 35,
@@ -841,7 +841,7 @@ const recipes = [
         carbs: 50,
         protein: 30
       },
-      photo: "https://img.freepik.com/free-photo/healthy-rice-bowl-with-fresh-veggies-herbs-generated-by-ai_188544-25989.jpg?t=st=1737724768~exp=1737728368~hmac=df01a3e72dbd39ff42bd5ca6d7d17788f13753d7c0052b47070fd432597c5fbe&w=1380"
+      photo: "https://img.freepik.com/free-photo/onions-cuisine-oriental-cooked-ethnic-take-out_1428-733.jpg?t=st=1737899813~exp=1737903413~hmac=c6f69d8677361476706f7937351bc69a421f5af4064844d4451056425bfbc9dc&w=1060"
     },
     {
       id: 38,
@@ -901,7 +901,7 @@ const recipes = [
         carbs: 30,
         protein: 30
       },
-      photo: "https://img.freepik.com/free-photo/savory-taco-plate-with-grilled-beef-fresh-vegetables-guacamole-generated-by-artificial-intelligence_188544-110688.jpg?t=st=1737724927~exp=1737728527~hmac=229ac6d5492ac95f79c7bbe08ec5fa37996bd8bafa382442cf81fc76309b25b7&w=1380"
+      photo: "https://img.freepik.com/free-photo/mexican-chicken-quesadillas-with-cheese-peppers-white-marble_123827-26928.jpg?t=st=1737899969~exp=1737903569~hmac=3cfb19d76abbb94a47ea67a059e1a92ce337533f06389ea83e07b9365cbe5989&w=1060"
     },
     {
       id: 40,
@@ -966,7 +966,7 @@ const recipes = [
           carbs: 35,
           protein: 35
         },
-        photo: "https://img.freepik.com/free-photo/rustic-seafood-meal-served-wooden-table-generated-by-ai_188544-28171.jpg?t=st=1737725511~exp=1737729111~hmac=528066c14e257efc39d475cc90493389e298ef2c8a27b9434feac673fe6ace0c&w=1380"
+        photo: "https://img.freepik.com/free-photo/spaghetti-with-fried-shrimps-fresh-tomatoes_127675-2481.jpg?t=st=1737900098~exp=1737903698~hmac=b01427f89396829b8cef6136322c9244971cac828b64708155feeccb8bd03c7b&w=1060"
       },
       {
         id: 42,
