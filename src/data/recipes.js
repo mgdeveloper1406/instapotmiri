@@ -298,7 +298,7 @@ const recipes = [
       carbs: 40,
       protein: 2
     },
-    photo: "https://img.freepik.com/free-photo/thanksgiving-celebration-with-delicious-food_23-2151865748.jpg?t=st=1737722226~exp=1737725826~hmac=a773d3c6707539ede35ab4bf5bb73c04bbb3bc6175d14caf9c1e597fa9a8b2d8&w=1380"
+    photo: "https://img.freepik.com/free-photo/high-angle-thanksgiving-apple-pie-slice_23-2148639011.jpg?t=st=1737898486~exp=1737902086~hmac=5bf9162acbf775be1ac7cbf1fba5a8c077f3a72c939f011b10ffea872cd6891c&w=360"
   },
     {
       id: 21,
